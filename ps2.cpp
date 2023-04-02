@@ -11,7 +11,7 @@ Print each element on a new line in the same order it was received as input.
 using namespace std;
 
 int main () {
-    int x;
+	int x;
 	long long y;
 	char a;
 	float z;
