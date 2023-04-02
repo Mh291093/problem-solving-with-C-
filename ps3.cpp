@@ -1,3 +1,4 @@
+// Simple Calculator - Given two numbers X and Y. Print the summation and multiplication and subtraction of these 2 numbers.
 #include<bits/stdc++.h>
 #include<iostream>
 using namespace std;
