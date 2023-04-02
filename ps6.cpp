@@ -1,3 +1,5 @@
+// sum of last two digits - Given two numbers N and M. Print the summation of their last digits.
+
 #include<bits/stdc++.h>
 #include<iostream>
 using namespace std;
